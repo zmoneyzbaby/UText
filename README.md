@@ -1,8 +1,8 @@
 # UText
 An app that allows users by geolocational chatrooms 
 
-Must init cocoapods within project. Open Podfile and add the following dependencies
-# Pods for team16
+# Must init cocoapods within project. Open Podfile and add the following dependencies
+        Pods for team16
         pod 'Firebase/Core'
         pod 'Firebase/Storage'
         pod 'Firebase'
